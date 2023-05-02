@@ -2,7 +2,7 @@
 <p>
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=moqsien&theme=dark&show_icons=true">
-    <img align="left" width="54%" src="https://github-readme-stats.vercel.app/api?username=moqsien&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
+    <img align="left" width="53%" src="https://github-readme-stats.vercel.app/api?username=moqsien&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
 </picture>
 
 <picture>
