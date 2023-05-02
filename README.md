@@ -22,10 +22,12 @@
 
 <details>
 <summary>Buy me a coffee.</summary>
-<pre><code>
-<img width="30%" src="https://github.com/moqsien/moqsien/blob/main/imgs/alipay.jpeg" title="alipay">
-<img width="35%" src="https://github.com/moqsien/moqsien/blob/main/imgs/wechat.jpeg" title="wechat">
-</code></pre>
+<table>
+<tr>
+<td><img width="30%" src="https://github.com/moqsien/moqsien/blob/main/imgs/alipay.jpeg" title="alipay"></td>
+<td><img width="35%" src="https://github.com/moqsien/moqsien/blob/main/imgs/wechat.jpeg" title="wechat"></td>
+</tr>
+</table>
 </details>
 
 ------
