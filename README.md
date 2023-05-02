@@ -5,15 +5,13 @@
 <td>
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=moqsien&theme=dark&show_icons=true">
-    <img width="70%" src="https://github-readme-stats.vercel.app/api?username=moqsien&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
+    <img width="85%" src="https://github-readme-stats.vercel.app/api?username=moqsien&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
 </picture>
 </td>
-</tr>
-<tr>
 <td>
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=moqsien&theme=dark&show_icons=true">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moqsien&layout=compact&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
+    <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moqsien&layout=compact&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
 </picture>
 </td>
 </tr>
