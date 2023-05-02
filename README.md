@@ -24,8 +24,8 @@
 <summary>Buy me a coffee.</summary>
 <table>
 <tr>
-<td><img width="30%" src="https://github.com/moqsien/moqsien/blob/main/imgs/alipay.jpeg" title="alipay"></td>
-<td><img width="35%" src="https://github.com/moqsien/moqsien/blob/main/imgs/wechat.jpeg" title="wechat"></td>
+<td><img width="30%" src="https://github.com/moqsien/moqsien/blob/main/imgs/alipay.jpeg" title="alipay"><br>Alipay</td>
+<td><img width="35%" src="https://github.com/moqsien/moqsien/blob/main/imgs/wechat.jpeg" title="wechat"><br>Wechat</td>
 </tr>
 </table>
 </details>
