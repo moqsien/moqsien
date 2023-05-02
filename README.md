@@ -3,9 +3,6 @@
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=moqsien&theme=dark&show_icons=true">
     <img align="left" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=moqsien&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-</picture>
-
-<picture>
     <img align="right", width="45%" src="https://github-readme-stats-ouuan.vercel.app/api/top-langs/?username=moqsien&layout=compact">
 </picture>
 
