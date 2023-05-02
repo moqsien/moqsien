@@ -8,3 +8,9 @@
 - 🔭 I’m currently working on [gvc](https://github.com/moqsien/gvc).
 - 🌱 I’m currently learning golang/rust/vlang/typescript/uni-app...
 - 💬 Ask me about golang/python...
+
+------
+
+<picture>
+    <img align="left", width="50%" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=moqsien&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777">
+</picture>
