@@ -12,9 +12,12 @@
 
 ------
 
-- 🔭 I’m currently working on [gvc](https://github.com/moqsien/gvc).
+- 🔭 I’m currently working on [gvc](https://github.com/moqsien/gvc) and [xtray](https://github.com/moqsien/xtray).
 - 🌱 I’m currently learning golang/rust/vlang/typescript/uni-app...
-- 💬 Ask me about golang/python...
+- 📧 moqsien@foxmail.com
+- 💬 moqsien(wechat)
+- 🌏 Hangzhou,China
+- 🏫 [UCAS](https://www.ucas.ac.cn), [HZAU](http://www.hzau.edu.cn)
 
 ------
 
