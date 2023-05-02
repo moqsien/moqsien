@@ -6,7 +6,7 @@
 </picture>
 
 <picture>
-    <img align="right", width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moqsien&layout=compact">
+    <img align="right", width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moqsien&layout=compact">
 </picture>
 
 ------
