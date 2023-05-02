@@ -12,5 +12,5 @@
 ------
 
 <picture>
-    <img align="left", width="50%" src="http://cr-skills-chart-widget.azurewebsites.net/api/api?username=moqsien&padding=30&skills=angular,batchfile,c,C%23,coffeescript,dart,go,html,json,java,javascript,less,mysql,php,pandas,perl,python,reactjs,scss,shell,svelte,swift,typescript,vue">
+    <img align="left", width="50%" src="http://cr-skills-chart-widget.azurewebsites.net/api/api?username=moqsien&padding=30&skills=go,html,json,javascript,mysql,python,shell,typescript,vue">
 </picture>
