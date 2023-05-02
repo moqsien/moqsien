@@ -12,5 +12,5 @@
 ------
 
 <picture>
-    <img align="left", width="50%" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=moqsien&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777">
+    <img align="left", width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=moqsien&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777">
 </picture>
