@@ -1,15 +1,21 @@
 ## Hi there 👋
-<p>
+
+<table>
+<tr>
+<td>
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=moqsien&theme=dark&show_icons=true">
     <img align="left" width="53%" src="https://github-readme-stats.vercel.app/api?username=moqsien&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
 </picture>
-
+</td>
+<td>
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=moqsien&theme=dark&show_icons=true">
     <img align="right" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moqsien&layout=compact&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
 </picture>
-</p>
+</td>
+</tr>
+</table>
 
 ------
 <br/>
