@@ -12,5 +12,5 @@
 ------
 
 <picture>
-    <img align="left", width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=moqsien&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777">
+    <img align="left", width="50%" src="http://cr-skills-chart-widget.azurewebsites.net/api/api?username=moqsien&padding=30&skills=angular,batchfile,c,C%23,coffeescript,dart,go,html,json,java,javascript,less,mysql,php,pandas,perl,python,reactjs,scss,shell,svelte,swift,typescript,vue">
 </picture>
