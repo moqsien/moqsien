@@ -18,18 +18,16 @@
 </table>
 
 ------
-<br/>
-<br/>
 
-- 🔭 I’m currently working on [gvc](https://github.com/moqsien/gvc) and [xtray](https://github.com/moqsien/xtray).
-- 🌱 I’m currently learning golang/rust/vlang/typescript/uni-app...
-- 📧 moqsien@foxmail.com
-- 💬 moqsien(wechat)
-- 🌏 Hangzhou,China
+- 🔭 **I’m currently working on** [gvc](https://github.com/moqsien/gvc) and [xtray](https://github.com/moqsien/xtray).
+- 🌱 I’m currently learning **golang/rust/vlang/typescript/uni-app...**
+- 📧 **moqsien@foxmail.com**
+- 💬 **moqsien**(wechat)
+- 🌏 **Hangzhou,China**
 - 🏫 [UCAS](https://www.ucas.ac.cn), [HZAU](http://www.hzau.edu.cn)
 
 <details>
-<summary>Buy me a coffee.</summary>
+<summary><b>Buy me a coffee.</b></summary>
 <table>
 <tr>
 <td style="text-align: center;"><img width="30%" src="https://github.com/moqsien/moqsien/blob/main/imgs/alipay.jpeg" title="alipay"><br>Alipay(支付宝)</td>
