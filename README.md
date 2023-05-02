@@ -23,8 +23,8 @@
 <details>
 <summary>Buy me a coffee.</summary>
 <pre><code>
-<img src="https://github.com/moqsien/moqsien/blob/main/imgs/alipay.jpeg" title="alipay">
-<img src="https://github.com/moqsien/moqsien/blob/main/imgs/wechat.jpeg" title="wechat">
+<img heigit="30%" src="https://github.com/moqsien/moqsien/blob/main/imgs/alipay.jpeg" title="alipay">
+<img height="35%" src="https://github.com/moqsien/moqsien/blob/main/imgs/wechat.jpeg" title="wechat">
 </code></pre>
 </details>
 
