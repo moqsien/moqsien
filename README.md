@@ -39,8 +39,8 @@
 ------
 
 [![Readme Card](https://github-readme-stats-moqsien.vercel.app/api/pin/?username=moqsien&repo=gvc)](https://github.com/moqsien/gvc)
-[![Readme Card](https://github-readme-stats-moqsien.vercel.app/api/pin/?username=moqsien&repo=xtray)](https://github.com/moqsien/xtray)
-[![Readme Card](https://github-readme-stats-moqsien.vercel.app/api/pin/?username=moqsien&repo=free)](https://github.com/moqsien/free)
+[![Readme Card](https://github-readme-stats-moqsien.vercel.app/api/pin/?username=moqsien&repo=neobox)](https://github.com/moqsien/neobox)
+[![Readme Card](https://github-readme-stats-moqsien.vercel.app/api/pin/?username=moqsien&repo=goutils)](https://github.com/moqsien/goutils)
 [![Readme Card](https://github-readme-stats-moqsien.vercel.app/api/pin/?username=moqsien&repo=gknet)](https://github.com/moqsien/gknet)
 [![Readme Card](https://github-readme-stats-moqsien.vercel.app/api/pin/?username=moqsien&repo=easynotes)](https://github.com/moqsien/easynotes)
 [![Readme Card](https://github-readme-stats-moqsien.vercel.app/api/pin/?username=moqsien&repo=goktrl)](https://github.com/moqsien/goktrl)
