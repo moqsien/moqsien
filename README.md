@@ -26,6 +26,10 @@
 - 🌏 **Hangzhou,China**
 - 🏫 [UCAS](https://www.ucas.ac.cn), [HZAU](http://www.hzau.edu.cn)
 
+gvc QQ group：
+
+<img src="https://github.com/moqsien/neobox/blob/main/docs/gvc_qq_group.jpg" width="36%">
+
 <details>
 <summary><b>Buy me a coffee.</b></summary>
 <table>
