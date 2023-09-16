@@ -21,10 +21,6 @@
 
 - 🔭 **I’m currently working on** [gvc](https://github.com/moqsien/gvc) and [neobox](https://github.com/moqsien/neobox).
 - 🌱 I’m currently learning **golang/rust/vlang/typescript/uni-app...**
-- 📧 **moqsien@foxmail.com**
-- 💬 **moqsien**(wechat)
-- 🌏 **Hangzhou,China**
-- 🏫 [UCAS](https://www.ucas.ac.cn), [HZAU](http://www.hzau.edu.cn)
 
 gvc QQ group：
 
