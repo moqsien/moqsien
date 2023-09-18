@@ -21,6 +21,8 @@
 
 - 🔭 **I’m currently working on** [gvc](https://github.com/moqsien/gvc) and [neobox](https://github.com/moqsien/neobox).
 - 🌱 I’m currently learning **golang/rust/vlang/typescript/uni-app...**
+- 📧 Email: moqsien2022@gmail.com
+- 💬 Telegram: @MoQsien
 
 gvc QQ group：
 
