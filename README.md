@@ -18,15 +18,15 @@ Moreover, [WebDAV](https://en.wikipedia.org/wiki/WebDAV) support is also adopted
 **Note:**
 Some netdisk with webdav supported.一些支持WebDAV协议的网盘.
 <table>
-<tr>https://www.jianguoyun.com(China)</tr>
-<tr>https://www.dropbox.com/</tr>
-<tr>https://www.box.com/</tr>
-<tr>https://teracloud.jp/en/</tr>
-<tr>https://m.4shared.com/</tr>
-<tr>https://www.powerfolder.com/</tr>
-<tr>https://www.idrivesync.com/</tr>
-<tr>https://disk.yandex.com/</tr>
-<tr>https://koofr.eu/</tr>
+<tr><td>https://www.jianguoyun.com(China)</td></tr>
+<tr><td>https://www.dropbox.com/</td></tr>
+<tr><td>https://www.box.com/</td></tr>
+<tr><td>https://teracloud.jp/en/</td></tr>
+<tr><td>https://m.4shared.com/</td></tr>
+<tr><td>https://www.powerfolder.com/</td></tr>
+<tr><td>https://www.idrivesync.com/</td></tr>
+<tr><td>https://disk.yandex.com/</td></tr>
+<tr><td>https://koofr.eu/</td></tr>
 </table>
 
 ------
