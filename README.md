@@ -39,6 +39,9 @@ Of course you can also mannually add your own vps with vmess/vless/trojan/ss/ssr
 
 **NeoBox** 可以说是目前来说，最强大的免费vpn客户端，基于sing-box和xray-core。开箱即用，不需要复杂的配置。当然，你也可以添加自己搭建的vmess/vless/trojan/ss/ssr节点。此外，它还支持warp/warp+，edgetunnel等。最后，NeoBox还拥有最强大的IP/域名筛选器，它可以用来保证你随时获得更好的免费vpn。
 
+**NeoBox** is already integrated in **GVC**.
+NeoBox已经集成在GVC中.
+
 ------
 
 **gvc QQ group：**
