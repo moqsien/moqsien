@@ -7,6 +7,8 @@
 - 🔭 **I’m currently working on** [GVC](https://github.com/moqsien/gvc) and [NeoBox](https://github.com/moqsien/neobox).
 
 **What's GVC?**
+<br/>
+
 **GVC** is a super-powerful and very easy-to-use cli tool that helps you to manage your local dev environment.
 It is initially inspired by [gvm](https://github.com/andrewkroh/gvm) and [g](https://github.com/voidint/g) which provide installations and version management only for go.
 However, GVC just takes it a step further for Java/Python/NodeJS/Flutter/Julia/Vlang/Rust/Msys2/Cygwin/Typst/GitForWindows/VSCode/Neovim...
@@ -28,6 +30,14 @@ Some netdisk with webdav supported.一些支持WebDAV协议的网盘.
 <tr><td>https://disk.yandex.com/</td></tr>
 <tr><td>https://koofr.eu/</td></tr>
 </table>
+
+**What's NeoBox?**
+<br/>
+
+**NeoBox** is an extremely powerful free vpn client based on [sing-box](https://github.com/SagerNet/sing-box) and [xray-core](https://github.com/XTLS/Xray-core).
+Of course you can also mannually add your own vps with vmess/vless/trojan/ss/ssr deployed. Besides, it also support [warp/warp+](https://www.applnn.cc/6103.html) and edgeTunnel(https://github.com/3Kmfi6HP/EDtunnel). Finally, NeoBox has the most powerful ip/domain filter, which ensures you to get will tested free vpns.
+
+**NeoBox** 可以说是目前来说，最强大的免费vpn客户端，基于sing-box和xray-core。开箱即用，不需要复杂的配置。当然，你也可以添加自己搭建的vmess/vless/trojan/ss/ssr节点。此外，它还支持warp/warp+，edgetunnel等。最后，NeoBox还拥有最强大的IP/域名筛选器，它可以用来保证你随时获得更好的免费vpn。
 
 ------
 
