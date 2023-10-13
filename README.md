@@ -35,9 +35,9 @@ Some netdisk with webdav supported.一些支持WebDAV协议的网盘.
 <br/>
 
 **NeoBox** is an extremely powerful free vpn client based on [sing-box](https://github.com/SagerNet/sing-box) and [xray-core](https://github.com/XTLS/Xray-core).
-Of course you can also mannually add your own vps with vmess/vless/trojan/ss/ssr deployed. Besides, it also support [warp/warp+](https://www.applnn.cc/6103.html) and edgeTunnel(https://github.com/3Kmfi6HP/EDtunnel). Finally, NeoBox has the most powerful ip/domain filter, which ensures you to get will tested free vpns.
+Of course you can also mannually add your own vps with vmess/vless/trojan/ss/ssr deployed. Besides, it also support [warp/warp+](https://www.applnn.cc/6103.html) and [edgeTunnel](https://github.com/3Kmfi6HP/EDtunnel). Finally, NeoBox has the most powerful ip/domain filter, which ensures you to get will tested free vpns.
 
-**NeoBox** 可以说是目前来说，最强大的免费vpn客户端，基于sing-box和xray-core。开箱即用，不需要复杂的配置。当然，你也可以添加自己搭建的vmess/vless/trojan/ss/ssr节点。此外，它还支持warp/warp+，edgetunnel等。最后，NeoBox还拥有最强大的IP/域名筛选器，它可以用来保证你随时获得更好的免费vpn。
+**NeoBox** 可以说是目前来说，最强大的免费vpn客户端，基于sing-box和xray-core。开箱即用，不需要复杂的配置。当然，你也可以添加自己搭建的vmess/vless/trojan/ss/ssr节点。此外，它还支持[warp/warp+](https://www.applnn.cc/6103.html) 和 [edgeTunnel](https://github.com/3Kmfi6HP/EDtunnel)。最后，NeoBox还拥有最强大的IP/域名筛选器，它可以用来保证你随时获得更好的免费vpn。
 
 **NeoBox** is already integrated in **GVC**.
 NeoBox已经集成在GVC中.
