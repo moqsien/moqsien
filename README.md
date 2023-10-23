@@ -80,11 +80,11 @@ NeoBox已经集成在GVC中.
 <!-- https://github.com/moqsien/vpnparser https://github.com/moqsien/xtractr -->
 [![Readme Card](https://github-readme-stats-moqsien.vercel.app/api/pin/?username=moqsien&repo=gvc)](https://github.com/moqsien/gvc)
 [![Readme Card](https://github-readme-stats-moqsien.vercel.app/api/pin/?username=moqsien&repo=neobox)](https://github.com/moqsien/neobox)
+[![Readme Card](https://github-readme-stats-moqsien.vercel.app/api/pin/?username=moqsien&repo=gogpt)](https://github.com/moqsien/gogpt)
 [![Readme Card](https://github-readme-stats-moqsien.vercel.app/api/pin/?username=moqsien&repo=vpnparser)](https://github.com/moqsien/vpnparser)
 [![Readme Card](https://github-readme-stats-moqsien.vercel.app/api/pin/?username=moqsien&repo=gscraper)](https://github.com/moqsien/gscraper)
 [![Readme Card](https://github-readme-stats-moqsien.vercel.app/api/pin/?username=moqsien&repo=goutils)](https://github.com/moqsien/goutils)
 [![Readme Card](https://github-readme-stats-moqsien.vercel.app/api/pin/?username=moqsien&repo=goktrl)](https://github.com/moqsien/goktrl)
-[![Readme Card](https://github-readme-stats-moqsien.vercel.app/api/pin/?username=moqsien&repo=asciinema)](https://github.com/moqsien/asciinema)
 [![Readme Card](https://github-readme-stats-moqsien.vercel.app/api/pin/?username=moqsien&repo=gknet)](https://github.com/moqsien/gknet)
 
 [![Readme Card](https://github-readme-stats-moqsien.vercel.app/api/pin/?username=moqsien&repo=gokeeper)](https://github.com/moqsien/gokeeper)
