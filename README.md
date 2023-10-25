@@ -1,5 +1,5 @@
 ## Hello, erverybody out there! I'm moqsien, an open-source enthusiast and a gopher. 👋
-## 大家好！我是墨谦，一个开源爱好者，同时也是一个go语言爱好者. 👋
+<!-- ## 大家好！我是墨谦，一个开源爱好者，同时也是一个go语言爱好者. 👋 -->
 
 - 📧 Email: moqsien2022@gmail.com
 - 💬 Telegram: @MoQsien
