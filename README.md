@@ -44,10 +44,6 @@ NeoBox已经集成在GVC中.
 
 ------
 
-**gvc QQ group：**
-
-<img src="https://github.com/moqsien/neobox/blob/main/docs/gvc_qq_group.jpg" width="20%">
-
 <table>
 <tr>
 <td>
