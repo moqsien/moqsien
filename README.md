@@ -80,7 +80,7 @@ NeoBox已经集成在GVC中.
 [![Readme Card](https://github-readme-stats-moqsien.vercel.app/api/pin/?username=moqsien&repo=vpnparser)](https://github.com/moqsien/vpnparser)
 [![Readme Card](https://github-readme-stats-moqsien.vercel.app/api/pin/?username=moqsien&repo=gscraper)](https://github.com/moqsien/gscraper)
 [![Readme Card](https://github-readme-stats-moqsien.vercel.app/api/pin/?username=moqsien&repo=goutils)](https://github.com/moqsien/goutils)
-[![Readme Card](https://github-readme-stats-moqsien.vercel.app/api/pin/?username=moqsien&repo=goktrl)](https://github.com/moqsien/goktrl)
+[![Readme Card](https://github-readme-stats-moqsien.vercel.app/api/pin/?username=moqsien&repo=gshell)](https://github.com/moqsien/gshell)
 [![Readme Card](https://github-readme-stats-moqsien.vercel.app/api/pin/?username=moqsien&repo=gknet)](https://github.com/moqsien/gknet)
 
 [![Readme Card](https://github-readme-stats-moqsien.vercel.app/api/pin/?username=moqsien&repo=gokeeper)](https://github.com/moqsien/gokeeper)
