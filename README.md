@@ -42,7 +42,7 @@
 [![Readme Card](https://github-readme-stats-moqsien.vercel.app/api/pin/?username=moqsien&repo=neobox)](https://github.com/moqsien/neobox)
 [![Readme Card](https://github-readme-stats-moqsien.vercel.app/api/pin/?username=moqsien&repo=gogpt)](https://github.com/moqsien/gogpt)
 [![Readme Card](https://github-readme-stats-moqsien.vercel.app/api/pin/?username=moqsien&repo=vpnparser)](https://github.com/moqsien/vpnparser)
-[![Readme Card](https://github-readme-stats-moqsien.vercel.app/api/pin/?username=moqsien&repo=gscraper)](https://github.com/moqsien/gscraper)
+[![Readme Card](https://github-readme-stats-moqsien.vercel.app/api/pin/?username=moqsien&repo=proxy-collector)](https://github.com/moqsien/proxy-collector)
 [![Readme Card](https://github-readme-stats-moqsien.vercel.app/api/pin/?username=moqsien&repo=goutils)](https://github.com/moqsien/goutils)
 [![Readme Card](https://github-readme-stats-moqsien.vercel.app/api/pin/?username=moqsien&repo=gshell)](https://github.com/moqsien/gshell)
 [![Readme Card](https://github-readme-stats-moqsien.vercel.app/api/pin/?username=moqsien&repo=gknet)](https://github.com/moqsien/gknet)
