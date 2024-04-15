@@ -38,7 +38,7 @@
 ------
 
 <!-- https://github.com/moqsien/vpnparser https://github.com/moqsien/xtractr -->
-[![Readme Card](https://github-readme-stats-moqsien.vercel.app/api/pin/?username=moqsien&repo=version-manager)](https://github.com/gvcgo/version-manager)
+[![Readme Card](https://github-readme-stats-moqsien.vercel.app/api/pin/?username=gvcgo&repo=version-manager)](https://github.com/gvcgo/version-manager)
 [![Readme Card](https://github-readme-stats-moqsien.vercel.app/api/pin/?username=moqsien&repo=asciinema)](https://github.com/gvcgo/asciinema)
 [![Readme Card](https://github-readme-stats-moqsien.vercel.app/api/pin/?username=moqsien&repo=gogpt)](https://github.com/moqsien/gogpt)
-[![Readme Card](https://github-readme-stats-moqsien.vercel.app/api/pin/?username=moqsien&repo=gobuilder)](https://github.com/gvcgo/gobuilder)
+[![Readme Card](https://github-readme-stats-moqsien.vercel.app/api/pin/?username=gvcgo&repo=gobuilder)](https://github.com/gvcgo/gobuilder)
