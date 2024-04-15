@@ -1,10 +1,10 @@
-## Hello, erverybody out there! I'm moqsien, an open-source enthusiast and a gopher. 👋
+## Hello, erverybody! I'm moqsien, an open-source enthusiast and a gopher. 👋
 <!-- ## 大家好！我是墨谦，一个开源爱好者，同时也是一个go语言爱好者. 👋 -->
 
 - 📧 Email: moqsien2022@gmail.com
 - 💬 Telegram: @MoQsien
-- 🌱 I’m also learning **vlang/rust/flutter/typescript...**
-- 🔭 **I’m currently working on** [GVC](https://github.com/moqsien/gvc) and [NeoBox](https://github.com/moqsien/neobox).
+- 🌱 I’m also learning **rust/flutter/typescript...**
+- 🔭 **I’m currently working on** [version-manager](https://github.com/gvcgo/version-manager) and [asciinema](https://github.com/gvcgo/asciinema).
 
 ------
 
@@ -38,14 +38,7 @@
 ------
 
 <!-- https://github.com/moqsien/vpnparser https://github.com/moqsien/xtractr -->
-[![Readme Card](https://github-readme-stats-moqsien.vercel.app/api/pin/?username=moqsien&repo=gvc)](https://github.com/moqsien/gvc)
-[![Readme Card](https://github-readme-stats-moqsien.vercel.app/api/pin/?username=moqsien&repo=neobox)](https://github.com/moqsien/neobox)
+[![Readme Card](https://github-readme-stats-moqsien.vercel.app/api/pin/?username=moqsien&repo=version-manager)](https://github.com/gvcgo/version-manager)
+[![Readme Card](https://github-readme-stats-moqsien.vercel.app/api/pin/?username=moqsien&repo=asciinema)](https://github.com/gvcgo/asciinema)
 [![Readme Card](https://github-readme-stats-moqsien.vercel.app/api/pin/?username=moqsien&repo=gogpt)](https://github.com/moqsien/gogpt)
-[![Readme Card](https://github-readme-stats-moqsien.vercel.app/api/pin/?username=moqsien&repo=vpnparser)](https://github.com/moqsien/vpnparser)
-[![Readme Card](https://github-readme-stats-moqsien.vercel.app/api/pin/?username=moqsien&repo=proxy-collector)](https://github.com/moqsien/proxy-collector)
-[![Readme Card](https://github-readme-stats-moqsien.vercel.app/api/pin/?username=moqsien&repo=goutils)](https://github.com/moqsien/goutils)
-[![Readme Card](https://github-readme-stats-moqsien.vercel.app/api/pin/?username=moqsien&repo=gshell)](https://github.com/moqsien/gshell)
-[![Readme Card](https://github-readme-stats-moqsien.vercel.app/api/pin/?username=moqsien&repo=gknet)](https://github.com/moqsien/gknet)
-
-[![Readme Card](https://github-readme-stats-moqsien.vercel.app/api/pin/?username=moqsien&repo=gokeeper)](https://github.com/moqsien/gokeeper)
-[![Readme Card](https://github-readme-stats-moqsien.vercel.app/api/pin/?username=moqsien&repo=xtractr)](https://github.com/moqsien/xtractr)
+[![Readme Card](https://github-readme-stats-moqsien.vercel.app/api/pin/?username=moqsien&repo=gobuilder)](https://github.com/gvcgo/gobuilder)
