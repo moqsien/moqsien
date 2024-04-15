@@ -3,6 +3,7 @@
 
 - 📧 Email: moqsien2022@gmail.com
 - 💬 Telegram: @MoQsien
+- 🧑🏼‍💻 My community: https://github.com/gvcgo 
 - 🌱 I’m also learning **rust/flutter/typescript...**
 - 🔭 **I’m currently working on** [version-manager](https://github.com/gvcgo/version-manager) and [asciinema](https://github.com/gvcgo/asciinema).
 
